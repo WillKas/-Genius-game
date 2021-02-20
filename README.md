@@ -1,4 +1,4 @@
-# Jogo Genius :game_die:
+# Jogo Genius
 
-### usando mais interação do Usuário com recursos do DOM
+### Usando mais interação do Usuário com recursos do DOM
 
